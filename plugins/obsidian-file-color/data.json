@@ -1,0 +1,32 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "h5zPc89otd_1R9tPJdBmh",
+      "name": "Blue",
+      "value": "#aeb3f9"
+    },
+    {
+      "id": "ZPK3kI4_RVGopoaXJhsxz",
+      "name": "Purple",
+      "value": "#e2a3ff"
+    },
+    {
+      "id": "fhHvcRKFD41sFWVltQHG9",
+      "name": "Yellow",
+      "value": "#fff199"
+    },
+    {
+      "id": "R22tjFvDkwmUo93ZHBFgv",
+      "name": "Orange",
+      "value": "#ffca80"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Stories",
+      "color": "h5zPc89otd_1R9tPJdBmh"
+    }
+  ]
+}
